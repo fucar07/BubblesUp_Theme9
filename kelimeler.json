@@ -1,0 +1,106 @@
+{
+    "c2array": true,
+    "size": [
+        3,
+        10,
+        1
+    ],
+    "data": [
+        [
+            [
+                "CONFERENCE ROOM"
+            ],
+            [
+                "TECHNOLOGY LAB"
+            ],
+            [
+                "GYM"
+            ],
+            [
+                "LITERATURE"
+            ],
+            [
+                "DRAMA"
+            ],
+            [
+                "REGISTER"
+            ],
+            [
+                "PRESENTATIONS"
+            ],
+            [
+                "LECTURES"
+            ],
+            [
+                "DISCUSSIONS"
+            ],
+            [
+                "SCULPTURE"
+            ]
+        ],
+        [
+            [
+                "CONFERENCE ROOM"
+            ],
+            [
+                "TECHNOLOGY LAB"
+            ],
+            [
+                "GYM"
+            ],
+            [
+                "LITERATURE"
+            ],
+            [
+                "DRAMA"
+            ],
+            [
+                "REGISTER"
+            ],
+            [
+                "PRESENTATIONS"
+            ],
+            [
+                "LECTURES"
+            ],
+            [
+                "DISCUSSIONS"
+            ],
+            [
+                "SCULPTURE"
+            ]
+        ],
+        [
+            [
+                "conferenceroom"
+            ],
+            [
+                "technologylab"
+            ],
+            [
+                "gym"
+            ],
+            [
+                "literature"
+            ],
+            [
+                "drama"
+            ],
+            [
+                "register"
+            ],
+            [
+                "presentations"
+            ],
+            [
+                "lectures"
+            ],
+            [
+                "discussions"
+            ],
+            [
+                "sculpture"
+            ]
+        ]
+    ]
+}

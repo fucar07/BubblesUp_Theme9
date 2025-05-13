@@ -1333,7 +1333,7 @@ self.C3_ExpressionFuncs = [
 		() => "Balon ve Harfler",
 		p => {
 			const f0 = p._GetNode(0).GetBoundMethod();
-			return () => f0(1.5, 2.5);
+			return () => f0(2, 3);
 		},
 		() => "oyun",
 		p => {
@@ -1377,13 +1377,20 @@ self.C3_ExpressionFuncs = [
 			const n1 = p._GetNode(1);
 			return () => f0(0, n1.ExpObject());
 		},
+		p => {
+			const f0 = p._GetNode(0).GetBoundMethod();
+			return () => f0(4, 7);
+		},
 		() => "balon",
 		p => {
 			const f0 = p._GetNode(0).GetBoundMethod();
 			return () => f0(1800, 2500);
 		},
 		() => 200,
-		() => 8,
+		p => {
+			const f0 = p._GetNode(0).GetBoundMethod();
+			return () => f0(6, 9);
+		},
 		() => 1500,
 		p => {
 			const f0 = p._GetNode(0).GetBoundMethod();
